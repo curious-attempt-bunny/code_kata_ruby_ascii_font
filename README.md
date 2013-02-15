@@ -1,6 +1,6 @@
 # The exercise #
 
-Take a number and print is using the font below:
+Print numbers using the font below:
 
      .d8888b.  d888   .d8888b.  .d8888b.      d8888 888888888  .d8888b. 8888888888 .d8888b.  .d8888b.  
     d88P  Y88bd8888  d88P  Y88bd88P  Y88b    d8P888 888       d88P  Y88b      d88Pd88P  Y88bd88P  Y88b 
